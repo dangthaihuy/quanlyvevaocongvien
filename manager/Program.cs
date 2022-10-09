@@ -8,7 +8,7 @@ namespace manager
         {
             if (age <= 0)
             {
-                return "Input is invalid    ";
+                return "Input is invalid";
             }
             else if (age <= 10)
             {
